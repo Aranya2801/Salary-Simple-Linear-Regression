@@ -1,0 +1,501 @@
+YearsExperience,Salary,Industry,Education,Location,JobTitle,Gender,Age,SkillScore,PerformanceRating
+2.3,89969.0,Education,Bachelor's,Austin,Mid Developer,Female,23,48.3,5
+15.1,140416.0,Healthcare,Master's,Austin,Mid Developer,Female,39,69.2,3
+6.6,112299.0,Finance,Associate,New York,Analyst,Female,26,64.2,2
+4.6,86852.0,Government,PhD,Seattle,Mid Developer,Female,27,57.7,5
+0.8,87886.0,Education,Associate,Seattle,Senior Developer,Male,25,45.3,3
+0.8,90580.0,Tech,Master's,Seattle,VP,Male,22,49.5,4
+0.3,74636.0,Manufacturing,Master's,Chicago,Lead Engineer,Female,21,51.2,1
+10.1,111827.0,Government,Associate,Austin,Data Scientist,Male,32,43.9,4
+4.6,78120.0,Manufacturing,Bachelor's,Chicago,Junior Developer,Female,29,61.5,3
+6.2,103579.0,Education,Master's,Boston,Lead Engineer,Female,29,49.5,2
+0.1,70445.0,Healthcare,Bachelor's,Los Angeles,Junior Developer,Male,21,38.6,4
+17.5,134429.0,Finance,High School,Boston,Junior Developer,Female,40,59.4,3
+8.9,92891.0,Manufacturing,High School,Remote,Analyst,Male,29,45.4,3
+1.2,91162.0,Government,Bachelor's,New York,Mid Developer,Male,25,38.2,2
+1.0,87016.0,Tech,PhD,San Francisco,Manager,Female,24,44.4,2
+1.0,98120.0,Tech,High School,New York,Senior Developer,Female,22,71.0,3
+1.8,81904.0,Finance,Bachelor's,Chicago,Senior Developer,Male,22,47.4,2
+3.7,77301.0,Government,Master's,Los Angeles,Analyst,Male,24,57.3,5
+2.8,79558.0,Manufacturing,Associate,San Francisco,Junior Developer,Female,26,58.2,1
+1.7,95996.0,Tech,Bachelor's,Remote,Director,Female,26,53.9,4
+4.7,98913.0,Healthcare,Master's,New York,Consultant,Female,25,56.3,2
+0.8,76804.0,Finance,Bachelor's,Remote,Manager,Male,24,39.2,3
+1.7,83190.0,Manufacturing,High School,Seattle,Analyst,Male,20,67.1,5
+2.3,88054.0,Government,High School,New York,Junior Developer,Male,23,71.5,3
+3.0,91439.0,Government,High School,Austin,Senior Developer,Female,25,37.7,5
+7.7,125998.0,Finance,Master's,San Francisco,Mid Developer,Male,28,51.3,3
+1.1,83652.0,Finance,Associate,San Francisco,VP,Male,21,48.9,4
+3.6,86922.0,Tech,Associate,San Francisco,Consultant,Female,24,45.8,4
+4.5,95842.0,Tech,Bachelor's,Los Angeles,Mid Developer,Male,27,61.8,5
+0.2,75142.0,Government,Associate,Austin,Director,Non-binary,22,43.0,4
+4.7,88450.0,Government,Bachelor's,San Francisco,Mid Developer,Female,22,78.7,4
+0.9,72213.0,Manufacturing,Master's,Chicago,Manager,Female,19,63.3,3
+0.3,80540.0,Manufacturing,Bachelor's,Boston,Lead Engineer,Male,21,52.6,3
+14.9,137531.0,Healthcare,Bachelor's,San Francisco,Consultant,Male,38,82.6,5
+16.9,140832.0,Education,Bachelor's,Seattle,Manager,Female,33,86.4,3
+8.3,105522.0,Manufacturing,Master's,New York,Senior Developer,Female,29,56.8,3
+1.8,83297.0,Government,Bachelor's,San Francisco,Junior Developer,Female,23,44.5,4
+0.5,80356.0,Tech,PhD,Boston,Mid Developer,Male,25,51.5,3
+5.8,112712.0,Finance,Bachelor's,San Francisco,Mid Developer,Female,27,67.3,5
+2.9,99552.0,Tech,Bachelor's,Austin,Mid Developer,Female,26,55.7,4
+0.7,66140.0,Manufacturing,Master's,Boston,Data Scientist,Female,23,35.3,4
+3.4,89384.0,Healthcare,PhD,New York,Manager,Female,21,47.1,5
+0.2,69638.0,Tech,Bachelor's,Chicago,Manager,Female,24,49.6,1
+12.0,123300.0,Healthcare,Master's,San Francisco,Junior Developer,Female,34,67.2,3
+1.5,79732.0,Healthcare,Associate,Remote,Data Scientist,Male,25,72.0,4
+5.4,89273.0,Finance,Master's,Austin,VP,Male,35,44.2,3
+1.9,81895.0,Tech,Bachelor's,Los Angeles,Junior Developer,Male,20,57.9,4
+3.7,83128.0,Healthcare,Bachelor's,Chicago,Director,Male,29,70.4,5
+4.0,96358.0,Healthcare,Associate,New York,Manager,Male,25,78.7,3
+1.0,77705.0,Education,Bachelor's,Chicago,Junior Developer,Male,24,47.5,3
+17.5,135426.0,Healthcare,Associate,Remote,Lead Engineer,Male,39,81.2,5
+7.5,105615.0,Government,Master's,Chicago,Lead Engineer,Male,29,66.9,3
+14.0,124727.0,Healthcare,High School,Los Angeles,Mid Developer,Female,35,73.0,4
+11.3,122267.0,Healthcare,PhD,Los Angeles,Analyst,Female,34,66.0,3
+4.6,106768.0,Government,High School,San Francisco,Data Scientist,Male,24,61.3,5
+12.7,142534.0,Finance,Bachelor's,San Francisco,Director,Female,36,43.7,4
+0.5,75553.0,Tech,PhD,Chicago,Lead Engineer,Female,22,57.6,4
+1.1,96268.0,Tech,Master's,Seattle,Senior Developer,Male,21,52.9,5
+0.2,83401.0,Education,Master's,Los Angeles,Director,Male,21,48.1,3
+2.0,75914.0,Healthcare,Master's,Remote,Manager,Male,27,73.5,3
+2.5,91200.0,Education,Associate,Seattle,Junior Developer,Female,23,47.0,5
+1.6,101033.0,Tech,High School,San Francisco,Lead Engineer,Female,24,48.4,3
+8.8,109710.0,Tech,PhD,Los Angeles,Data Scientist,Male,29,83.1,4
+2.2,87670.0,Tech,Master's,San Francisco,Lead Engineer,Male,26,45.0,5
+1.6,96371.0,Finance,Master's,Los Angeles,Junior Developer,Male,25,46.9,4
+3.9,100292.0,Healthcare,PhD,Seattle,Data Scientist,Male,30,54.4,4
+0.8,88602.0,Finance,Bachelor's,Boston,Mid Developer,Male,22,59.6,5
+8.1,116455.0,Finance,Bachelor's,New York,Mid Developer,Male,31,64.2,5
+0.4,79496.0,Manufacturing,Bachelor's,Chicago,Mid Developer,Female,23,37.7,3
+21.7,150598.0,Finance,Bachelor's,Austin,Senior Developer,Female,46,77.2,2
+7.4,113599.0,Healthcare,Bachelor's,Chicago,VP,Male,28,55.0,3
+1.1,91087.0,Education,Bachelor's,San Francisco,Lead Engineer,Female,25,50.9,4
+0.0,79315.0,Finance,Bachelor's,Boston,Mid Developer,Male,22,54.3,4
+8.4,109872.0,Healthcare,Bachelor's,Los Angeles,Analyst,Male,30,66.8,4
+6.1,86831.0,Government,High School,San Francisco,Analyst,Male,28,41.4,3
+6.5,108864.0,Manufacturing,Master's,New York,Analyst,Female,29,70.4,4
+7.4,117146.0,Tech,Bachelor's,New York,Mid Developer,Non-binary,29,63.6,3
+0.4,77472.0,Manufacturing,Master's,Chicago,Lead Engineer,Female,23,64.4,4
+2.2,96705.0,Finance,Bachelor's,Chicago,Consultant,Male,27,57.7,4
+0.6,77457.0,Tech,High School,Austin,Data Scientist,Female,25,61.9,3
+9.9,128887.0,Finance,PhD,San Francisco,Junior Developer,Male,34,69.5,3
+4.9,88313.0,Manufacturing,Bachelor's,Seattle,Junior Developer,Female,26,70.8,4
+2.0,88362.0,Finance,Master's,Chicago,Lead Engineer,Male,22,58.2,4
+0.3,77295.0,Finance,Associate,Austin,Analyst,Male,24,49.5,3
+1.9,82522.0,Healthcare,High School,Remote,Manager,Female,26,75.6,5
+2.0,90694.0,Tech,Master's,New York,Lead Engineer,Female,27,61.9,4
+6.5,107898.0,Tech,Master's,Boston,Junior Developer,Male,27,65.5,5
+5.1,109838.0,Tech,Bachelor's,Seattle,Director,Female,27,44.9,3
+10.9,119376.0,Tech,High School,Seattle,Data Scientist,Male,30,53.5,4
+3.2,81957.0,Tech,Bachelor's,Boston,Senior Developer,Female,24,57.7,5
+0.6,96527.0,Tech,High School,Boston,Data Scientist,Female,25,52.4,4
+6.2,112112.0,Healthcare,Master's,Remote,Consultant,Female,27,53.2,4
+7.2,103072.0,Tech,Master's,New York,Mid Developer,Female,30,62.2,3
+4.1,105648.0,Finance,Master's,New York,Manager,Female,26,72.0,3
+7.4,99996.0,Government,Bachelor's,Boston,Senior Developer,Male,30,68.1,2
+3.4,94378.0,Finance,Bachelor's,Chicago,Data Scientist,Female,23,43.7,3
+3.7,97714.0,Healthcare,Bachelor's,San Francisco,Manager,Male,26,54.4,1
+2.8,93215.0,Tech,Bachelor's,New York,Manager,Male,19,46.2,1
+0.1,81760.0,Tech,PhD,New York,Data Scientist,Male,22,46.3,5
+0.6,78806.0,Tech,Bachelor's,Los Angeles,Senior Developer,Male,19,46.8,3
+0.2,78480.0,Tech,Bachelor's,San Francisco,Analyst,Female,25,45.5,4
+5.1,95375.0,Tech,High School,San Francisco,Manager,Male,29,45.1,5
+1.9,90533.0,Tech,Associate,San Francisco,Mid Developer,Female,25,51.6,4
+3.6,89404.0,Tech,High School,Seattle,Director,Male,29,49.8,3
+11.9,132726.0,Tech,High School,New York,Data Scientist,Male,32,38.6,4
+1.4,95968.0,Finance,Bachelor's,Austin,Senior Developer,Male,27,72.6,4
+2.6,89690.0,Tech,Bachelor's,New York,Data Scientist,Male,26,64.8,4
+7.0,112265.0,Finance,PhD,Los Angeles,Analyst,Male,29,56.7,4
+1.3,91837.0,Healthcare,Master's,San Francisco,Senior Developer,Female,26,52.1,5
+0.4,78046.0,Education,Bachelor's,Austin,Consultant,Male,20,38.9,4
+1.7,87918.0,Tech,Associate,Los Angeles,Mid Developer,Female,22,69.5,3
+0.9,84511.0,Education,Bachelor's,Boston,Mid Developer,Male,22,70.3,4
+13.3,130898.0,Healthcare,Bachelor's,Austin,Mid Developer,Male,34,71.5,2
+8.3,108289.0,Tech,Master's,San Francisco,Analyst,Female,28,72.7,5
+5.0,104653.0,Government,Master's,Seattle,Director,Male,29,59.3,2
+10.3,124488.0,Manufacturing,Master's,Boston,Mid Developer,Male,32,52.1,3
+8.1,104324.0,Tech,Bachelor's,Remote,Lead Engineer,Male,31,58.0,5
+1.0,85554.0,Tech,Associate,Boston,Manager,Male,22,52.8,4
+11.2,122127.0,Government,Bachelor's,Chicago,Junior Developer,Female,30,62.3,3
+3.9,88295.0,Education,Bachelor's,Boston,Analyst,Male,26,53.7,4
+8.2,118794.0,Tech,Associate,Austin,Data Scientist,Female,26,61.4,5
+11.3,143901.0,Tech,High School,New York,Lead Engineer,Female,33,66.1,3
+1.9,79082.0,Finance,Associate,Chicago,Consultant,Male,21,53.4,5
+0.6,68182.0,Finance,Associate,Remote,Senior Developer,Female,27,40.3,2
+1.3,90271.0,Healthcare,Master's,San Francisco,Consultant,Male,25,44.8,4
+2.8,99163.0,Finance,Master's,Boston,Director,Non-binary,25,41.4,5
+8.5,114003.0,Finance,Bachelor's,San Francisco,Manager,Male,33,72.5,3
+9.9,123596.0,Education,Master's,Austin,Mid Developer,Female,30,43.8,3
+0.0,73741.0,Tech,Bachelor's,New York,Analyst,Male,23,61.5,3
+3.6,99473.0,Tech,Bachelor's,Austin,Lead Engineer,Male,26,69.3,4
+2.7,83763.0,Education,PhD,Boston,Mid Developer,Female,25,51.0,4
+1.3,97395.0,Government,Master's,Seattle,Junior Developer,Female,26,25.9,4
+0.6,97120.0,Healthcare,Bachelor's,Boston,Manager,Male,24,47.3,3
+2.1,80147.0,Healthcare,Bachelor's,Los Angeles,Manager,Male,25,52.5,3
+14.3,131194.0,Tech,Master's,Remote,Director,Female,33,61.3,1
+2.0,98027.0,Finance,Bachelor's,San Francisco,Analyst,Female,22,47.8,3
+3.7,89863.0,Healthcare,Associate,Seattle,Junior Developer,Non-binary,25,70.9,4
+6.1,109467.0,Tech,Master's,San Francisco,VP,Female,28,65.8,5
+2.3,90193.0,Tech,Master's,Remote,Mid Developer,Female,22,44.2,4
+17.8,132033.0,Finance,Master's,Remote,Data Scientist,Female,45,60.7,3
+16.4,141259.0,Tech,Associate,Austin,Data Scientist,Male,41,71.3,5
+1.5,80732.0,Finance,Bachelor's,Los Angeles,Manager,Male,25,50.1,4
+3.4,90825.0,Tech,Master's,Austin,Director,Female,26,60.1,5
+1.8,99339.0,Finance,Master's,Chicago,Senior Developer,Female,23,47.3,4
+1.7,80858.0,Tech,Bachelor's,New York,Lead Engineer,Male,22,57.7,3
+0.2,81966.0,Government,Associate,Boston,Data Scientist,Male,22,69.7,2
+4.7,99528.0,Healthcare,PhD,New York,Lead Engineer,Female,27,65.2,4
+3.5,90962.0,Healthcare,Master's,Los Angeles,Senior Developer,Male,23,54.8,2
+0.3,80813.0,Education,Associate,Los Angeles,Lead Engineer,Male,23,48.6,3
+1.6,88750.0,Finance,Associate,Boston,Data Scientist,Male,23,48.8,4
+11.9,137435.0,Tech,PhD,New York,Senior Developer,Male,30,79.7,4
+1.4,93165.0,Healthcare,Associate,San Francisco,Mid Developer,Male,22,45.8,4
+0.8,83290.0,Healthcare,Master's,San Francisco,Director,Male,22,51.7,3
+3.4,85972.0,Education,Master's,Seattle,Data Scientist,Male,29,55.6,3
+21.2,156429.0,Finance,Master's,New York,Junior Developer,Female,44,76.8,4
+1.4,81567.0,Tech,PhD,Remote,Mid Developer,Male,21,38.4,5
+5.6,125723.0,Tech,Bachelor's,Chicago,Mid Developer,Female,29,61.6,4
+7.2,119667.0,Finance,Associate,San Francisco,Senior Developer,Female,26,60.2,5
+1.4,73411.0,Healthcare,Associate,Seattle,Lead Engineer,Male,26,57.1,4
+6.5,94220.0,Healthcare,Bachelor's,Seattle,VP,Female,28,54.4,4
+2.3,90745.0,Finance,Associate,Chicago,Director,Male,24,65.7,3
+5.0,97628.0,Manufacturing,Bachelor's,Austin,Manager,Female,30,48.7,4
+5.0,99291.0,Healthcare,Bachelor's,Remote,Senior Developer,Male,24,74.6,4
+3.8,95850.0,Tech,PhD,Austin,Data Scientist,Female,23,38.2,4
+0.5,80546.0,Tech,Bachelor's,Remote,Lead Engineer,Female,21,55.1,4
+9.0,117673.0,Tech,Associate,Los Angeles,Consultant,Male,33,68.3,4
+1.9,91757.0,Tech,Associate,San Francisco,Manager,Male,21,44.9,3
+1.0,67296.0,Tech,Master's,Remote,Mid Developer,Female,18,55.7,4
+0.2,83372.0,Tech,Bachelor's,New York,Director,Female,21,63.1,3
+4.5,92339.0,Tech,Bachelor's,Los Angeles,Senior Developer,Male,28,34.6,5
+5.7,108512.0,Tech,Master's,Seattle,Director,Female,30,63.6,3
+0.1,97162.0,Government,High School,Los Angeles,Junior Developer,Male,21,25.2,2
+3.6,100270.0,Tech,Master's,Los Angeles,Mid Developer,Female,25,45.7,3
+1.3,80732.0,Healthcare,Bachelor's,Los Angeles,Data Scientist,Male,26,68.2,4
+5.2,109284.0,Finance,Master's,Los Angeles,Mid Developer,Female,23,52.0,3
+1.0,88312.0,Manufacturing,Master's,San Francisco,Data Scientist,Male,22,39.8,3
+5.9,113431.0,Tech,PhD,New York,Senior Developer,Male,28,56.9,4
+2.4,96325.0,Finance,Bachelor's,Seattle,Director,Male,25,74.3,3
+13.8,151142.0,Manufacturing,PhD,San Francisco,Director,Male,35,52.4,5
+0.7,71113.0,Government,Master's,Boston,Lead Engineer,Male,23,40.5,5
+2.1,86469.0,Government,High School,Seattle,Senior Developer,Male,19,68.1,4
+0.6,74519.0,Tech,Bachelor's,Remote,Mid Developer,Female,21,69.5,3
+12.9,135914.0,Tech,Master's,Chicago,Junior Developer,Male,36,68.3,4
+10.5,108451.0,Healthcare,High School,Los Angeles,Senior Developer,Male,31,53.4,1
+1.5,80811.0,Manufacturing,Bachelor's,New York,Director,Male,24,73.2,4
+5.4,94059.0,Healthcare,High School,Los Angeles,Analyst,Male,28,74.0,3
+8.5,117607.0,Healthcare,Master's,Remote,Analyst,Male,30,69.5,5
+4.1,103178.0,Tech,Bachelor's,Austin,VP,Male,26,48.0,1
+3.8,77824.0,Education,Bachelor's,Chicago,Data Scientist,Male,24,55.2,4
+1.4,91609.0,Tech,PhD,Boston,Director,Male,23,50.5,4
+0.5,79773.0,Finance,Bachelor's,San Francisco,Mid Developer,Female,24,54.1,4
+11.4,113602.0,Finance,Master's,Austin,Analyst,Female,34,81.6,2
+11.5,122064.0,Healthcare,Bachelor's,Seattle,Director,Male,32,76.0,5
+5.0,102582.0,Tech,Master's,New York,Manager,Male,27,46.7,4
+2.1,111244.0,Tech,Bachelor's,Seattle,Junior Developer,Non-binary,26,66.9,4
+2.1,90944.0,Healthcare,Associate,New York,Lead Engineer,Male,20,56.3,3
+6.5,95729.0,Tech,High School,New York,Lead Engineer,Female,31,66.6,4
+11.4,117102.0,Healthcare,High School,New York,Data Scientist,Male,33,81.8,3
+10.9,132441.0,Tech,PhD,Remote,Manager,Female,34,55.2,2
+7.6,124338.0,Finance,Bachelor's,Austin,Senior Developer,Female,32,61.0,2
+5.1,85792.0,Healthcare,PhD,Remote,Consultant,Female,24,52.3,5
+0.4,70331.0,Tech,Bachelor's,Seattle,Junior Developer,Non-binary,21,34.9,3
+0.9,101938.0,Finance,Bachelor's,San Francisco,Lead Engineer,Male,22,54.8,3
+11.4,126687.0,Tech,Bachelor's,Austin,Junior Developer,Male,32,92.2,4
+4.7,96364.0,Tech,Master's,Seattle,VP,Female,30,38.6,4
+0.0,85927.0,Manufacturing,PhD,New York,Analyst,Female,20,49.7,2
+0.5,61764.0,Finance,Master's,Chicago,Senior Developer,Male,21,57.2,4
+5.4,100447.0,Government,Master's,San Francisco,Data Scientist,Male,28,59.3,2
+0.0,83473.0,Tech,Bachelor's,Chicago,Senior Developer,Male,20,48.9,1
+0.9,83564.0,Education,High School,Boston,Analyst,Male,22,38.4,2
+4.0,86239.0,Education,Master's,San Francisco,VP,Female,27,58.3,5
+5.9,105405.0,Healthcare,Master's,New York,Data Scientist,Male,27,51.3,2
+5.3,93287.0,Finance,Bachelor's,Los Angeles,Junior Developer,Male,27,36.1,1
+1.3,88933.0,Finance,PhD,Austin,Consultant,Male,22,63.9,3
+6.2,100947.0,Finance,Master's,New York,VP,Male,25,68.9,5
+1.4,75705.0,Manufacturing,Bachelor's,Remote,Senior Developer,Male,24,52.6,3
+2.0,77333.0,Government,Bachelor's,New York,Data Scientist,Female,28,55.3,3
+6.9,109679.0,Manufacturing,Master's,Boston,Senior Developer,Non-binary,29,71.1,1
+5.2,107878.0,Tech,Master's,Remote,Analyst,Female,28,60.0,3
+9.5,111773.0,Education,Bachelor's,San Francisco,Junior Developer,Male,33,73.3,4
+5.4,96876.0,Manufacturing,High School,New York,Director,Female,25,55.1,4
+4.2,88821.0,Tech,Bachelor's,New York,Manager,Female,30,69.4,3
+0.5,86153.0,Tech,Master's,San Francisco,Junior Developer,Female,23,54.0,3
+2.3,82888.0,Education,High School,New York,Mid Developer,Male,28,55.4,2
+1.5,107166.0,Healthcare,Master's,Boston,Junior Developer,Male,22,39.5,3
+1.4,75724.0,Government,Master's,New York,Lead Engineer,Male,27,55.0,2
+18.1,160743.0,Tech,Bachelor's,Austin,Senior Developer,Male,42,68.8,4
+2.5,89625.0,Education,Bachelor's,Remote,Manager,Male,26,47.4,5
+11.1,124075.0,Tech,High School,Los Angeles,Senior Developer,Male,34,58.5,5
+5.0,115519.0,Tech,Master's,Chicago,Senior Developer,Male,27,46.8,5
+7.9,116847.0,Tech,Associate,San Francisco,VP,Female,32,83.1,4
+3.5,90513.0,Government,Bachelor's,Chicago,Junior Developer,Male,26,68.6,4
+4.3,92415.0,Healthcare,Bachelor's,Austin,Analyst,Male,22,75.7,3
+3.4,102809.0,Healthcare,Bachelor's,Seattle,Data Scientist,Female,23,42.9,4
+1.1,97502.0,Finance,Master's,New York,Director,Female,23,52.4,4
+6.4,94615.0,Government,Bachelor's,Los Angeles,Manager,Female,29,46.7,4
+1.6,76676.0,Finance,Associate,Seattle,Analyst,Non-binary,23,45.4,4
+0.1,78656.0,Government,Master's,San Francisco,Mid Developer,Female,25,41.0,3
+5.2,93310.0,Finance,High School,Seattle,Junior Developer,Non-binary,23,70.2,3
+1.0,85642.0,Finance,Bachelor's,Seattle,Mid Developer,Male,23,47.5,5
+14.1,142830.0,Finance,Associate,Los Angeles,Data Scientist,Male,32,81.8,2
+15.4,139212.0,Finance,PhD,Boston,Junior Developer,Male,39,79.1,4
+12.3,124747.0,Education,PhD,Boston,Manager,Male,34,91.5,5
+2.3,88704.0,Healthcare,Associate,New York,Consultant,Male,25,38.7,4
+0.1,94217.0,Tech,PhD,Seattle,Data Scientist,Female,20,62.7,4
+13.2,107285.0,Government,Master's,Austin,Manager,Female,38,81.3,3
+2.8,88736.0,Finance,Bachelor's,New York,Junior Developer,Female,27,44.5,3
+17.0,147590.0,Healthcare,Bachelor's,San Francisco,Data Scientist,Male,40,85.6,5
+16.6,146931.0,Manufacturing,High School,Boston,Manager,Female,38,78.3,4
+9.6,114845.0,Healthcare,Master's,New York,Junior Developer,Female,33,62.1,4
+1.7,74898.0,Tech,PhD,Austin,Junior Developer,Male,22,44.3,2
+2.4,94728.0,Manufacturing,Master's,San Francisco,Analyst,Female,26,46.4,1
+9.5,111717.0,Healthcare,Bachelor's,New York,Director,Male,35,84.7,5
+1.9,81253.0,Finance,Bachelor's,San Francisco,Data Scientist,Male,26,52.9,3
+0.9,79675.0,Tech,Master's,Remote,Analyst,Female,21,59.2,4
+4.1,90254.0,Education,Master's,Los Angeles,Manager,Male,27,48.2,2
+13.8,123502.0,Healthcare,Bachelor's,Remote,Lead Engineer,Male,33,62.9,4
+6.0,83255.0,Healthcare,Master's,Austin,Lead Engineer,Female,29,69.8,5
+4.2,100837.0,Government,Bachelor's,New York,Senior Developer,Female,27,42.8,4
+0.5,86449.0,Education,Master's,Austin,Lead Engineer,Male,19,46.6,2
+4.8,103702.0,Tech,Bachelor's,Austin,Data Scientist,Male,24,57.5,4
+23.1,162429.0,Finance,PhD,Los Angeles,Manager,Male,45,85.8,4
+0.8,85878.0,Tech,Bachelor's,New York,Analyst,Female,22,49.4,3
+3.7,88358.0,Education,Master's,Austin,Lead Engineer,Male,23,59.5,5
+10.5,129740.0,Tech,Bachelor's,San Francisco,Manager,Male,33,72.7,4
+6.8,112487.0,Healthcare,Bachelor's,San Francisco,Manager,Female,29,67.5,5
+6.0,92077.0,Education,Bachelor's,Boston,Manager,Female,28,49.1,4
+6.1,98936.0,Government,Master's,Austin,Director,Male,27,56.3,2
+2.2,95968.0,Finance,Master's,Seattle,Mid Developer,Male,26,65.2,3
+1.7,95207.0,Government,Bachelor's,Seattle,Lead Engineer,Female,27,61.5,3
+8.3,119026.0,Tech,Master's,Austin,Junior Developer,Male,29,48.7,5
+8.3,111952.0,Government,Associate,Los Angeles,Senior Developer,Male,29,66.0,4
+10.1,124301.0,Tech,PhD,Los Angeles,Lead Engineer,Female,33,45.4,4
+12.2,135794.0,Finance,Bachelor's,Remote,Director,Male,33,68.8,3
+3.6,93108.0,Education,Master's,Los Angeles,Consultant,Female,25,74.4,3
+3.5,91461.0,Tech,Bachelor's,San Francisco,Manager,Male,27,45.8,4
+8.0,124277.0,Tech,Bachelor's,Boston,VP,Male,26,53.7,4
+5.2,99293.0,Education,High School,Seattle,Lead Engineer,Male,30,65.4,3
+6.1,97186.0,Education,Bachelor's,San Francisco,Manager,Male,28,43.7,4
+7.9,106084.0,Healthcare,Master's,Los Angeles,Junior Developer,Male,29,55.5,1
+11.0,122723.0,Education,Master's,New York,Mid Developer,Male,33,72.5,3
+2.1,90785.0,Healthcare,PhD,Remote,Senior Developer,Female,24,46.8,4
+2.4,92548.0,Tech,Master's,Austin,Lead Engineer,Non-binary,21,51.2,2
+0.5,83740.0,Finance,Bachelor's,Chicago,Junior Developer,Female,25,58.2,5
+4.3,112590.0,Tech,Bachelor's,Boston,Mid Developer,Female,26,60.7,3
+0.2,86982.0,Manufacturing,Master's,Los Angeles,Senior Developer,Male,23,53.0,2
+3.1,90405.0,Healthcare,Bachelor's,Chicago,Consultant,Non-binary,27,51.3,3
+3.9,101700.0,Finance,Bachelor's,Chicago,Senior Developer,Male,24,59.6,4
+1.7,81150.0,Finance,Bachelor's,New York,Lead Engineer,Female,25,51.3,3
+4.5,94533.0,Manufacturing,Bachelor's,Austin,Mid Developer,Non-binary,26,61.3,4
+0.2,100284.0,Tech,Bachelor's,San Francisco,Manager,Female,24,45.3,1
+0.2,77916.0,Healthcare,Bachelor's,Boston,Senior Developer,Non-binary,18,48.5,1
+8.6,103999.0,Healthcare,Master's,Austin,Mid Developer,Female,30,53.0,3
+2.2,83643.0,Healthcare,Master's,Boston,Lead Engineer,Male,23,52.9,5
+0.7,77193.0,Tech,Associate,New York,Junior Developer,Male,24,42.9,5
+3.7,85482.0,Government,Bachelor's,New York,Junior Developer,Female,27,44.4,2
+7.3,101426.0,Manufacturing,Bachelor's,Boston,Mid Developer,Male,28,63.5,4
+1.2,74015.0,Healthcare,Bachelor's,New York,Junior Developer,Female,22,53.9,5
+4.9,97295.0,Education,Master's,New York,Junior Developer,Non-binary,27,65.2,3
+0.4,90388.0,Manufacturing,PhD,New York,Senior Developer,Male,21,46.3,5
+0.3,66028.0,Education,Bachelor's,Remote,Data Scientist,Female,24,54.5,2
+3.8,106844.0,Tech,High School,Boston,Manager,Female,25,61.2,5
+3.9,99006.0,Healthcare,Bachelor's,Seattle,Lead Engineer,Female,20,60.3,4
+5.1,110525.0,Healthcare,Master's,San Francisco,Senior Developer,Non-binary,26,49.4,5
+6.5,104987.0,Finance,PhD,Seattle,Analyst,Female,26,61.2,4
+18.6,150866.0,Education,Associate,Los Angeles,Senior Developer,Non-binary,37,81.5,3
+3.6,84795.0,Manufacturing,PhD,Boston,Junior Developer,Female,23,55.5,5
+2.0,92572.0,Manufacturing,Associate,San Francisco,Manager,Male,24,32.1,3
+7.9,114945.0,Finance,Bachelor's,San Francisco,Junior Developer,Male,33,63.5,3
+1.6,93756.0,Tech,Associate,New York,Senior Developer,Female,24,74.5,4
+2.9,78265.0,Manufacturing,Bachelor's,Boston,Lead Engineer,Male,24,50.7,4
+0.4,69059.0,Government,Associate,Boston,Analyst,Female,23,43.3,5
+0.1,91808.0,Tech,Master's,San Francisco,Lead Engineer,Female,21,53.9,3
+16.4,131983.0,Manufacturing,Associate,New York,Director,Male,37,77.7,4
+9.0,117206.0,Government,Master's,New York,Consultant,Female,29,75.4,4
+6.0,89363.0,Healthcare,Master's,Remote,Mid Developer,Female,24,46.4,2
+2.6,99565.0,Healthcare,Master's,San Francisco,Senior Developer,Male,24,61.2,3
+1.0,78290.0,Finance,PhD,Boston,Senior Developer,Male,23,57.4,3
+0.9,88688.0,Tech,Bachelor's,Chicago,Lead Engineer,Male,23,49.9,3
+1.4,92675.0,Finance,Bachelor's,Seattle,Senior Developer,Male,23,55.5,5
+4.0,87926.0,Government,Bachelor's,San Francisco,Analyst,Female,24,66.3,4
+6.3,113046.0,Tech,Bachelor's,New York,Director,Male,30,68.2,4
+5.4,100754.0,Finance,Associate,Chicago,Manager,Female,25,46.7,5
+1.6,82319.0,Finance,Bachelor's,Los Angeles,Senior Developer,Male,25,60.6,3
+15.5,125532.0,Healthcare,High School,Chicago,Data Scientist,Male,35,72.6,5
+6.7,84009.0,Manufacturing,Bachelor's,Austin,Consultant,Female,27,60.8,3
+4.0,100947.0,Finance,Bachelor's,New York,Data Scientist,Female,23,56.7,5
+4.7,86692.0,Finance,PhD,Remote,Junior Developer,Male,26,55.5,3
+2.7,87173.0,Education,Master's,Los Angeles,Manager,Male,27,66.0,5
+1.4,88362.0,Finance,Master's,San Francisco,Junior Developer,Male,24,51.3,3
+2.2,95043.0,Tech,Master's,Remote,Mid Developer,Male,26,42.1,3
+7.1,107114.0,Finance,PhD,Chicago,Junior Developer,Female,30,56.7,4
+0.1,78594.0,Tech,Bachelor's,Chicago,Manager,Male,20,51.9,3
+0.6,88385.0,Tech,High School,Boston,Director,Male,22,63.2,4
+0.2,81590.0,Finance,High School,Los Angeles,Junior Developer,Male,21,56.3,3
+0.2,86039.0,Finance,Master's,Boston,Senior Developer,Female,25,41.8,4
+9.7,119064.0,Manufacturing,Bachelor's,New York,Lead Engineer,Non-binary,29,89.4,3
+6.1,94845.0,Finance,Master's,Seattle,Senior Developer,Male,30,61.8,2
+3.2,94114.0,Healthcare,Bachelor's,Remote,Mid Developer,Female,27,67.6,3
+0.5,88100.0,Healthcare,Bachelor's,San Francisco,Senior Developer,Male,26,49.2,4
+3.4,88637.0,Tech,Bachelor's,Seattle,VP,Male,25,60.4,3
+3.2,91907.0,Healthcare,Master's,Seattle,Junior Developer,Female,27,63.2,3
+1.0,86136.0,Tech,Associate,Seattle,Junior Developer,Female,28,63.7,3
+2.8,87614.0,Manufacturing,PhD,Chicago,Senior Developer,Female,24,64.8,2
+2.5,95021.0,Tech,PhD,Remote,Analyst,Female,21,62.5,4
+4.8,114841.0,Finance,Master's,San Francisco,Director,Male,23,54.0,5
+5.0,112104.0,Tech,Bachelor's,New York,Director,Female,28,51.8,3
+0.2,69312.0,Manufacturing,Bachelor's,San Francisco,Senior Developer,Male,18,53.6,4
+2.3,89617.0,Healthcare,High School,Los Angeles,Manager,Female,24,62.8,4
+4.9,106351.0,Healthcare,Bachelor's,Chicago,Junior Developer,Male,28,55.1,3
+3.5,100244.0,Tech,Associate,San Francisco,Manager,Female,26,65.9,4
+9.7,121738.0,Education,Master's,Los Angeles,Analyst,Male,33,79.1,3
+5.4,120268.0,Tech,Master's,Los Angeles,Manager,Male,28,48.9,4
+0.9,90110.0,Government,PhD,Los Angeles,Analyst,Female,25,43.0,1
+0.4,84764.0,Tech,Master's,Remote,VP,Male,20,49.2,4
+5.1,111591.0,Tech,Associate,San Francisco,Mid Developer,Male,26,60.7,4
+0.1,82989.0,Tech,Associate,Boston,Analyst,Male,21,44.9,1
+4.4,97261.0,Finance,Master's,Austin,Junior Developer,Male,28,70.1,3
+14.1,129069.0,Healthcare,Bachelor's,Los Angeles,Manager,Male,38,75.4,5
+4.3,113097.0,Tech,Master's,Boston,Mid Developer,Male,27,56.8,3
+2.5,76303.0,Education,Associate,Los Angeles,Junior Developer,Female,27,39.4,4
+5.2,113169.0,Finance,Bachelor's,Boston,Lead Engineer,Male,25,44.6,5
+3.1,98679.0,Healthcare,Master's,San Francisco,Senior Developer,Female,28,57.5,4
+3.9,83976.0,Finance,Master's,Austin,Lead Engineer,Female,29,34.5,4
+14.2,138251.0,Finance,PhD,Remote,Manager,Male,38,81.4,4
+2.4,68220.0,Healthcare,Bachelor's,Remote,Junior Developer,Female,28,52.0,5
+16.2,154214.0,Tech,PhD,New York,Mid Developer,Male,35,100.0,4
+11.8,135772.0,Tech,Associate,San Francisco,Manager,Female,33,90.8,4
+1.1,77141.0,Government,Bachelor's,New York,Senior Developer,Male,22,49.8,3
+0.4,79158.0,Manufacturing,Bachelor's,Boston,VP,Male,24,49.5,5
+0.5,95683.0,Finance,High School,Los Angeles,Director,Female,20,60.7,4
+0.1,81384.0,Tech,Bachelor's,San Francisco,Data Scientist,Female,24,67.2,2
+0.5,68729.0,Healthcare,Associate,Austin,Director,Female,25,34.4,5
+5.7,115663.0,Finance,Master's,Los Angeles,Lead Engineer,Male,29,40.7,4
+0.4,99871.0,Tech,Bachelor's,Boston,Director,Female,23,44.4,2
+1.9,86300.0,Tech,Associate,Austin,Senior Developer,Male,22,58.7,4
+9.3,118382.0,Education,Master's,Chicago,Senior Developer,Male,30,68.9,3
+0.1,89212.0,Healthcare,Master's,Austin,Data Scientist,Male,25,60.8,5
+8.4,111030.0,Tech,Bachelor's,San Francisco,Lead Engineer,Female,32,50.6,3
+1.7,85028.0,Tech,Master's,Chicago,Data Scientist,Male,24,29.4,5
+0.6,94777.0,Tech,Bachelor's,Boston,Data Scientist,Male,22,59.5,4
+6.0,114580.0,Healthcare,Bachelor's,Los Angeles,Data Scientist,Female,24,50.7,2
+5.0,101953.0,Tech,High School,Chicago,Analyst,Male,25,37.3,5
+10.5,115511.0,Tech,Bachelor's,Boston,Lead Engineer,Male,36,67.2,4
+6.6,120126.0,Education,Master's,San Francisco,Senior Developer,Male,26,67.8,3
+8.1,106782.0,Tech,Bachelor's,Austin,Manager,Female,30,60.9,4
+1.7,87679.0,Healthcare,PhD,New York,Senior Developer,Male,26,48.0,5
+1.0,91589.0,Tech,Bachelor's,San Francisco,Manager,Male,20,49.9,3
+6.9,118903.0,Tech,High School,Boston,Director,Female,29,56.6,3
+8.2,119242.0,Tech,Master's,Remote,Director,Female,32,48.8,2
+23.3,168809.0,Education,Bachelor's,New York,Senior Developer,Male,45,77.8,3
+2.7,91066.0,Government,Bachelor's,Seattle,Mid Developer,Female,30,59.3,4
+2.3,84388.0,Government,Bachelor's,Los Angeles,Lead Engineer,Female,21,56.7,4
+7.5,118115.0,Finance,Master's,San Francisco,Mid Developer,Female,32,62.9,3
+2.1,64844.0,Healthcare,Bachelor's,Chicago,Analyst,Male,24,43.2,3
+13.4,129997.0,Tech,Associate,Boston,Senior Developer,Female,37,68.3,3
+9.8,121621.0,Tech,Master's,Chicago,Mid Developer,Female,33,42.9,5
+2.8,79732.0,Government,Bachelor's,San Francisco,Junior Developer,Male,23,56.0,3
+6.9,114761.0,Tech,Master's,Seattle,Director,Male,29,74.6,5
+7.0,110214.0,Tech,PhD,Los Angeles,Manager,Male,25,45.8,4
+0.5,96794.0,Tech,Bachelor's,Chicago,Senior Developer,Male,24,44.9,3
+11.6,141114.0,Tech,Bachelor's,New York,Junior Developer,Female,34,70.7,5
+3.5,92224.0,Tech,Bachelor's,Boston,Senior Developer,Male,27,67.8,4
+8.8,116133.0,Healthcare,PhD,New York,Senior Developer,Male,33,58.7,4
+1.9,89378.0,Finance,Master's,Boston,Director,Female,25,45.9,5
+11.3,119227.0,Government,Master's,San Francisco,Manager,Male,34,47.3,2
+2.5,82760.0,Government,Associate,Remote,Senior Developer,Non-binary,23,54.8,2
+0.1,75464.0,Finance,Associate,Seattle,Mid Developer,Male,21,70.6,4
+11.8,122445.0,Tech,Master's,San Francisco,Consultant,Male,36,70.5,3
+0.5,88632.0,Finance,Associate,New York,Lead Engineer,Male,25,50.5,3
+1.9,93556.0,Healthcare,Bachelor's,San Francisco,Director,Male,23,56.1,1
+15.0,132615.0,Tech,Bachelor's,Los Angeles,Mid Developer,Male,37,72.4,1
+15.0,140063.0,Healthcare,Bachelor's,Remote,Lead Engineer,Female,35,64.4,4
+4.3,93637.0,Finance,Bachelor's,Seattle,Junior Developer,Non-binary,29,64.7,2
+5.0,102725.0,Healthcare,Master's,Seattle,Lead Engineer,Male,28,59.8,4
+3.0,96713.0,Finance,High School,Boston,Consultant,Female,29,54.7,4
+1.7,88241.0,Tech,Bachelor's,Los Angeles,Senior Developer,Female,22,42.8,3
+2.0,86088.0,Manufacturing,Bachelor's,Chicago,Junior Developer,Female,23,66.0,1
+5.6,95099.0,Education,Master's,Seattle,Junior Developer,Male,28,65.0,4
+7.0,106478.0,Tech,High School,Seattle,Senior Developer,Male,30,55.0,1
+7.8,103893.0,Government,Bachelor's,Boston,Mid Developer,Male,29,71.7,4
+7.8,108217.0,Finance,Master's,New York,Junior Developer,Female,28,56.7,5
+0.5,74586.0,Government,Bachelor's,Chicago,VP,Female,24,42.9,3
+3.4,76881.0,Education,Bachelor's,Seattle,Lead Engineer,Male,27,47.5,4
+0.3,75361.0,Finance,High School,Los Angeles,Senior Developer,Male,20,32.7,4
+4.0,94971.0,Tech,High School,New York,Analyst,Female,29,60.7,3
+2.9,89821.0,Tech,Bachelor's,Chicago,Junior Developer,Female,27,36.0,5
+10.9,113588.0,Healthcare,High School,Austin,Consultant,Non-binary,33,54.1,5
+2.2,86566.0,Healthcare,Master's,Chicago,Senior Developer,Female,24,32.5,3
+0.6,89366.0,Tech,Associate,New York,Analyst,Male,24,50.0,4
+0.8,92486.0,Tech,Master's,Chicago,Manager,Female,21,49.7,5
+7.2,97862.0,Government,Master's,Chicago,Data Scientist,Female,29,57.5,5
+4.8,85064.0,Manufacturing,Master's,Chicago,Consultant,Male,22,46.8,4
+0.5,72264.0,Healthcare,Master's,Chicago,Senior Developer,Female,24,39.0,4
+0.4,80272.0,Tech,Bachelor's,Boston,Consultant,Female,19,55.2,3
+6.0,102035.0,Tech,Bachelor's,Los Angeles,Senior Developer,Male,31,53.5,5
+0.4,80410.0,Tech,Bachelor's,San Francisco,Senior Developer,Female,22,53.8,2
+8.6,101561.0,Manufacturing,PhD,Los Angeles,Senior Developer,Female,30,54.0,4
+6.1,99781.0,Tech,Bachelor's,Austin,Manager,Female,27,61.0,3
+0.4,85271.0,Healthcare,Master's,New York,Mid Developer,Male,22,63.6,3
+0.4,88330.0,Tech,High School,New York,Manager,Male,25,56.5,3
+21.6,157721.0,Healthcare,Bachelor's,Seattle,Manager,Female,39,78.3,5
+2.3,85336.0,Healthcare,Master's,Los Angeles,VP,Male,27,56.0,2
+2.3,78826.0,Government,Master's,Boston,Data Scientist,Female,25,51.0,4
+8.4,112518.0,Tech,Associate,Los Angeles,Lead Engineer,Female,28,62.7,2
+14.7,129323.0,Tech,Bachelor's,Austin,Senior Developer,Male,35,68.8,3
+21.3,170975.0,Tech,Master's,Seattle,Mid Developer,Male,47,80.3,3
+7.0,89563.0,Manufacturing,Associate,New York,Mid Developer,Male,27,62.6,4
+2.4,82143.0,Government,High School,San Francisco,Junior Developer,Male,22,43.7,3
+0.4,85629.0,Healthcare,Master's,Seattle,Senior Developer,Female,25,40.4,3
+7.5,112271.0,Healthcare,Master's,New York,Senior Developer,Female,30,47.4,2
+4.1,120024.0,Healthcare,Master's,San Francisco,Consultant,Female,24,40.1,3
+2.8,93088.0,Tech,Associate,Chicago,Manager,Female,25,42.0,5
+11.8,115058.0,Manufacturing,Master's,Boston,Senior Developer,Male,32,69.3,5
+0.6,79666.0,Finance,Bachelor's,Remote,Manager,Female,25,42.0,3
+3.4,74460.0,Finance,High School,Remote,Mid Developer,Female,28,60.2,4
+0.1,78435.0,Healthcare,Master's,Chicago,Lead Engineer,Female,23,50.5,5
+3.2,90946.0,Tech,Master's,Seattle,Manager,Female,26,35.1,1
+0.3,89313.0,Tech,Bachelor's,Chicago,Lead Engineer,Male,26,57.0,5
+0.6,74034.0,Education,Master's,Los Angeles,Senior Developer,Female,23,59.0,5
+0.6,85796.0,Tech,Bachelor's,New York,Consultant,Male,20,41.0,2
+5.2,96376.0,Healthcare,Master's,Seattle,Analyst,Male,28,62.0,3
+6.9,122181.0,Tech,Bachelor's,Los Angeles,Manager,Male,33,51.8,5
+4.4,98100.0,Finance,Master's,Seattle,Manager,Non-binary,24,57.6,4
+16.4,155430.0,Tech,High School,Chicago,Manager,Female,38,62.0,1
+2.3,94603.0,Finance,Bachelor's,Chicago,Mid Developer,Female,25,35.5,3
+1.7,85467.0,Education,High School,San Francisco,Senior Developer,Female,24,48.7,3
+10.1,126780.0,Tech,Master's,Seattle,Junior Developer,Female,30,63.9,4
+1.3,86990.0,Healthcare,Associate,Seattle,Lead Engineer,Female,26,48.0,4
+16.5,133429.0,Finance,PhD,New York,Manager,Male,43,62.9,5
+0.1,80449.0,Healthcare,Master's,New York,Mid Developer,Male,22,46.2,3
+17.5,152511.0,Manufacturing,PhD,Los Angeles,Consultant,Male,38,78.9,4
+0.2,76719.0,Education,Associate,San Francisco,Analyst,Female,19,49.9,4
+11.1,112788.0,Tech,Master's,Austin,VP,Female,34,68.5,3
+3.8,99071.0,Tech,Bachelor's,San Francisco,Manager,Male,28,49.0,3
+24.8,189123.0,Tech,Master's,Remote,Data Scientist,Male,48,98.9,5
+0.4,91595.0,Healthcare,Associate,San Francisco,Mid Developer,Female,22,38.8,5
+4.0,101754.0,Tech,PhD,Seattle,Data Scientist,Male,25,60.9,4
+17.4,157482.0,Finance,PhD,Los Angeles,Mid Developer,Female,37,87.9,4
+3.7,91028.0,Healthcare,Master's,Los Angeles,Data Scientist,Non-binary,27,60.4,3
+5.0,87719.0,Finance,Associate,San Francisco,Senior Developer,Male,29,55.5,4
+5.9,89574.0,Education,Bachelor's,Los Angeles,Analyst,Male,25,53.6,4
+3.0,105753.0,Tech,Master's,Austin,Analyst,Female,28,64.9,4
+4.9,96678.0,Tech,Bachelor's,Austin,Mid Developer,Female,28,43.1,5
+4.4,91723.0,Education,Bachelor's,New York,Lead Engineer,Female,29,46.9,4
+11.6,124631.0,Finance,Bachelor's,New York,Consultant,Non-binary,31,63.4,3
+0.2,91143.0,Education,Bachelor's,Boston,Lead Engineer,Male,19,62.7,4
+1.6,99438.0,Finance,Master's,Austin,Data Scientist,Male,23,56.2,3
+15.0,158600.0,Tech,Bachelor's,Seattle,Manager,Female,38,62.8,3
+11.0,118028.0,Government,Master's,Boston,Senior Developer,Female,37,63.4,3
+3.0,88915.0,Education,Bachelor's,Boston,Senior Developer,Male,26,48.4,3
+4.8,83657.0,Education,Bachelor's,San Francisco,Mid Developer,Female,26,50.1,4
+1.6,98745.0,Tech,Bachelor's,Chicago,VP,Female,22,62.2,4
+1.0,75158.0,Healthcare,Bachelor's,New York,Senior Developer,Male,25,37.8,4
+3.1,96264.0,Finance,Master's,Boston,Lead Engineer,Male,23,70.7,4
+2.2,83832.0,Tech,Master's,Boston,Lead Engineer,Female,27,61.6,3
+4.4,87259.0,Manufacturing,Master's,Remote,Manager,Male,26,67.5,5
+0.4,80872.0,Tech,Master's,New York,Data Scientist,Male,26,46.0,3
+18.3,143127.0,Manufacturing,Bachelor's,New York,Consultant,Male,42,76.0,3
+21.4,159357.0,Finance,Associate,San Francisco,Senior Developer,Female,43,67.8,4
